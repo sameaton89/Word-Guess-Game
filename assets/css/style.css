@@ -1,0 +1,14 @@
+* {
+    box-sizing: border-box;
+}
+
+header {
+    font-family: "Arial", "Helvetica Neue", Helvetica, sans-serif;
+    text-align: center;
+    font-size: 36px;
+}
+
+.game-info {
+    font-family: "Arial", "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 18px; 
+}
