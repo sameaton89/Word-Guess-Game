@@ -2,13 +2,37 @@
     box-sizing: border-box;
 }
 
+body {
+    background-color: papayawhip;
+}
+
 header {
-    font-family: "Arial", "Helvetica Neue", Helvetica, sans-serif;
     text-align: center;
+}
+
+h1 { 
+    font-family: "Arial", "Helvetica Neue", Helvetica, sans-serif;
     font-size: 36px;
+}
+
+h4 {
+    font-family: "Arial", "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 18px;
+    font-style: italic;
+}
+
+h5 {
+    font-family: "Arial", "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 14px;
 }
 
 .game-info {
     font-family: "Arial", "Helvetica Neue", Helvetica, sans-serif;
     font-size: 18px; 
+    width: 50%;
+    margin: 0 auto;
+    background-color: peachpuff;
+    padding: 20px;
+    border-style: double;
+    margin-top: 30px;
 }
